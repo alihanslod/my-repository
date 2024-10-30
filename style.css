@@ -4,5 +4,6 @@ htms{
 }
 
 h1, h2{
-    font-family: serif
+    font-family: monospace
+    color: blueviolet;
 }
